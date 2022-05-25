@@ -5,7 +5,7 @@
 - 🔭 Em busca da primeira oportunidade
 - 🌱 Atualmente estou aprendendo Javascript e React
 - 🔍 Estou procurando colaborar em projetos open soucer
-- ⚡ Curiosidade:  Amo estudar tomando tereré e gosto quando alguém cozinha pra mim!
+- ⚡ Curiosidade:  Amo estudar tomando tereré e amo cozinhar!
 
 
 ### Ferramentas e Tecnologias
